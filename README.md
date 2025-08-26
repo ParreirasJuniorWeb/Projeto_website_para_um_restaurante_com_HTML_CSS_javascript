@@ -31,4 +31,4 @@ Para visualizar ou clonar este projeto, siga os passos abaixo:
 3. **Abra o arquivo** `index.html` no seu navegador de preferência para ver o projeto em ação.
 
 # Autores 
-Por João Victor Parreiras Soares ([ParreirasJuniorWeb](https://github.com/ParreirasJuniorWeb/))
+Por João Victor Parreiras Soares ([ParreirasJuniorWeb](https://github.com/ParreirasJuniorWeb/)) e sr.WebSite - autor do site que me inspirou a criar este modelo.
